@@ -1,0 +1,31 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/mechax/livox_ros_driver2/install/livox_ros_driver2/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/mechax/Desktop/infantry_nav/src/mechax_trajectory/include/**",
+        "/home/mechax/Desktop/infantry_nav/src/rm_auto_aim/armor_detector/include/**",
+        "/home/mechax/Desktop/infantry_nav/src/rm_auto_aim/armor_tracker/include/**",
+        "/home/mechax/Desktop/infantry_nav/src/rm_decision/include/**",
+        "/home/mechax/Desktop/infantry_nav/src/rm_localization/fast_lio/include/**",
+        "/home/mechax/Desktop/infantry_nav/src/rm_localization/icp_localization_ros2/include/**",
+        "/home/mechax/Desktop/infantry_nav/src/rm_perception/imu_complementary_filter/include/**",
+        "/home/mechax/Desktop/infantry_nav/src/rm_perception/linefit_ground_segementation_ros2/linefit_ground_segmentation/include/**",
+        "/home/mechax/Desktop/infantry_nav/src/rm_perception/pointcloud_to_laserscan/include/**",
+        "/home/mechax/Desktop/infantry_nav/src/rm_serial_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
